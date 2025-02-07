@@ -13,12 +13,3 @@ This project focuses on forecasting electricity consumption trends using a mix o
 - **📈 Performance Metrics** – MSE, RMSE, MAPE, and R² for accuracy evaluation  
 - **📊 Data Visualization** – Interactive plots using Matplotlib & Plotly  
 
-
-## 🏁 How to Run the Project
-
-1️⃣ **Clone the repository**  
-Open your terminal or command prompt and run:  
-```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-pip install -r requirements.txt
